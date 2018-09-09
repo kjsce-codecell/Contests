@@ -1,9 +1,6 @@
 t = int(input())
-assert ( 1 <= t <= 100 )
 for __ in range(t):
 	n, m = map(int, input().split())
-	assert ( 1 <= n <= 10**3 )
-	assert ( 1 <= m <= n )
 	inl = input().split()
 	iml = input().split()
 	amps = []
@@ -15,7 +12,6 @@ for __ in range(t):
 		if i % 2 == 0:
 			temp = int(inl[i])
 			amps.append(temp)
-			assert ( 1 <= temp <= 200 )
 		else:
 			freqs.append(inl[i])
 
