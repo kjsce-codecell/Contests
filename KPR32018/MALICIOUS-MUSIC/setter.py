@@ -1,10 +1,3 @@
-# t = 100
-# n = 1000
-# m < = n 
-# A[i] <= 200  
-
-
-# malmsc
 t = int(input())
 assert ( 1 <= t <= 100 )
 for __ in range(t):
@@ -49,5 +42,4 @@ for __ in range(t):
 						break
 			else:
 				c+=1
-
 	print(c)

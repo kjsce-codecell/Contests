@@ -28,7 +28,6 @@ int main(){
     while(t--)
     {
         inp(n);
-        assert(n>=0 && n<=1000000000);
         if(n%2==0)
         {
             printf("%lld\n",n/2);

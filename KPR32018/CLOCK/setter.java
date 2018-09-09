@@ -2,12 +2,10 @@ import java.util.*;
 
 public class setter {
     public static void main(String[] args) {
-        // System.out.println("Hello world!");
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
         int h, m, s, x;
         while (t-- > 0) {
-            // System.out.println("Hello world!");
             h = sc.nextInt();
             m = sc.nextInt();
             s = sc.nextInt();
