@@ -35,7 +35,7 @@ A collection of problems and solutions to all contests hosted by KJSCE-CodeCell
   </p>
   </details>
 
-  <details><summary>KJSCE CodeSpree [ CLICK ] </summary>
+  <details><summary>KJSCE CodeSpree 2018[ CLICK ] </summary>
 <p>
 
 - [KJCS2018 Contest Link](https://www.codechef.com/KJCS2018/)
