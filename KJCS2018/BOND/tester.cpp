@@ -1,12 +1,3 @@
-/*
-
-input1.txt 0.065s
-input2.txt 0.018s
-input3.txt 0.067s
-input4.txt 0.064s
-
-*/
-
 #include "bits/stdc++.h"
 #define ull unsigned long long int 
 #define ll long long int 

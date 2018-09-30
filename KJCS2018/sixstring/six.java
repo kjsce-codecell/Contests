@@ -16,7 +16,6 @@ class  six{
 
                  ans+=10;
                  modsum=new boolean[3];
-                 //System.out.println("skiiped "+i);
              }
                 else{
                     int digit=Integer.parseInt(""+str[i]);
@@ -29,9 +28,6 @@ class  six{
 
                     }
                     psdo[digit%3]=true;
-                   // System.out.println("mod"+Arrays.toString(psdo));
-//System.out.println("psdo "+Arrays.toString(modsum));
-                   // System.out.println("");
                     if(psdo[0]&&digit%2==0){
                         ans+=5;
                         modsum=new boolean[3];
