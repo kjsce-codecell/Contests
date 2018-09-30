@@ -1,4 +1,3 @@
-import math
 def powerset(A):
     if A == []:
         return [[]]
@@ -9,17 +8,17 @@ def powerset(A):
         rest.append([a] + set)
     return rest + incomplete_pset
 
+def gcd(x,y):
+    if y==0:
+        return x
+    else:
+        return gcd(y,x%y)
 def lcm(x,y):
-    return x*y//math.gcd(x,y)
-
-t = int(input())
-assert(1 <= t <= 10**3)    
-for _ in range(t):
+    return x*y//gcd(x,y)
+    
+for _ in range(int(input())):	
     n,m = map(int,input().split())
-    assert(1 <= n <= 10**18 and 1<= m <= 10)
     train = list(map(int,input().split()))
-    for i in train:
-        assert(0 <= i <= 10**18)
     for i in range(len(train)):
         train[i]+=1
     s = 0
@@ -35,3 +34,4 @@ for _ in range(t):
         else:
             s += n//x
     print(n-s)
+    
