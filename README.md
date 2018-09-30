@@ -34,3 +34,21 @@ A collection of problems and solutions to all contests hosted by KJSCE-CodeCell
   [Solution](https://github.com/KJSCE-Codecell/KJSCE-Practice-Round-2-Solutions/tree/master/HouseOfCards/)
   </p>
   </details>
+
+  <details><summary>KJSCE Practice Round 2 2017 [ CLICK ] </summary>
+<p>
+
+- [KJCS2018 Contest Link](https://www.codechef.com/KJCS2018/)
+
+* [BALANCE](https://www.codechef.com/KJCS2018/problems/BAL)
+  [Solution](https://github.com/KJSCE-Codecell/Contests/KPR32018/Balance/)
+* [BOOK](https://www.codechef.com/KJCS2018/problems/BOOK)
+  [Solution](https://github.com/KJSCE-Codecell/Contests/KPR32018/BOOK/)
+* [BOND](https://www.codechef.com/KJCS2018/problems/BOND)
+  [Solution](https://github.com/KJSCE-Codecell/Contests/KPR32018/BOND/)
+* [LOCAL TRAIN](https://www.codechef.com/KJCS2018/problems/LTR)
+  [Solution](https://github.com/KJSCE-Codecell/Contests/KPR32018/Local Train/)
+* [SIXSTRING](https://www.codechef.com/KJCS2018/problems/SIXSTR)
+  [Solution](https://github.com/KJSCE-Codecell/Contests/KPR32018/sixstring)
+  </p>
+  </details>
