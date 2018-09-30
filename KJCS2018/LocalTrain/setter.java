@@ -60,5 +60,3 @@ static long gcd(long x,long y){
        }
        
 }
-
-
