@@ -14,7 +14,7 @@ for _ in range(n):
 
     #kadenes
     for i in range(1,n):
-        if subSum[-1] + nums[i] > nums[i]:
+        if subSum[-1] + nums[i] >= nums[i]:
             subSum.append(subSum[-1] + nums[i])
             subInd.append([subInd[-1][0],i])
         else:
