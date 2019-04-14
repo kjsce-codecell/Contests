@@ -2,6 +2,22 @@
 
 A collection of problems and solutions to all contests hosted by KJSCE-CodeCell
 
+
+<details><summary>KJSCE Coding Challenge 2019  [ CLICK ] </summary>
+<p>
+
+- [KJSC2019 Contest Link](https://www.codechef.com/KJSC2019)
+
+- Problems
+  - [Weirwood age](https://www.codechef.com/KJSC2019/problems/WAGE) | [Setter Solution - Python](./KJSC2019/WEIRWOOD-AGE/setter.py) | [Tester Soltion - Java](./KJSC2019/WEIRWOOD-AGE/tester.java)
+  - [Ye Re Ye Re Pawase](https://www.codechef.com/KJSC2019/problems/RAIN) | [Setter Solution - Python](./KJSC2019/YE-RE-YE-RE-PAWASE/setter.py) | [Tester Soltion - C++](./KJSC2019/YE-RE-YE-RE-PAWASE/tester.cpp)
+  - [Akshay and Teacher](https://www.codechef.com/KJSC2019/problems/ATCH) | [Setter Solution - C++](./KJSC2019/AKSHAY-AND-TEACHER/setter.cpp) | [Tester Soltion - Python](./KJSC2019/AKSHAY-AND-TEACHER/tester.py)
+  - [Justify](https://www.codechef.com/KJSC2019/problems/JFY) | [Setter Solution - Python](./KJSC2019/JUSTIFY/setter.py) | [Tester Soltion - C++](./KJSC2019/JUSTIFY/tester.cpp)
+  - [Range GCD](https://www.codechef.com/KJSC2019/problems/RGCD) | [Setter Solution - Java](./KJSC2019/RANGE-GCD/setter.java) | [Tester Soltion - Python](./KJSC2019/RANGE-GCD/tester.py)
+  
+</p>
+</details>
+
 <details><summary>KJSCE Practice Round 3 2018 [ CLICK ] </summary>
 <p>
 
