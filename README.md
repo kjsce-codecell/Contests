@@ -3,17 +3,32 @@
 A collection of problems and solutions to all contests hosted by KJSCE-CodeCell
 
 
+<details><summary>KJSCE CodeSpree 2020  [ CLICK ] </summary>
+<p>
+
+- [CSPR2020 Contest Link](https://www.codechef.com/CSPR2020	)
+
+- Problems
+  - [Octave Tunes](https://www.codechef.com/CSPR2020/problems/OCTAVE) | [Setter Solution - C++](./KJSC2020/Octave-Tunes/setter.cpp) | [Tester Solution - Python](./KJSC2020/Octave-Tunes/tester.py)
+  - [Rabbit Race](https://www.codechef.com/CSPR2020/problems/RRACE) | [Setter Solution - Python](./KJSC2020/Rabbit-Race/setter.py) | [Tester Solution - C++](./KJSC2020/Rabbit-Race/tester.cpp)
+  - [Kevin and the Cube](https://www.codechef.com/CSPR2020/problems/KCUBE) | [Setter Solution - Python](./KJSC2020/Kevin-and-the-Cube/setter.py) | [Tester Solution - C++](./KJSC2020/Kevin-and-the-Cube/tester.cpp)
+  - [Sherlock and the uncaught Murderer](https://www.codechef.com/CSPR2020/problems/SHER) | [Setter Solution - Python](./KJSC2020/Sherlock-and-the-Uncaught-Murderer/setter.py) | [Tester Solution - C++](./KJSC2020/Sherlock-and-the-Uncaught-Murderer/tester.cpp)
+  - [Ice-Cream party](https://www.codechef.com/CSPR2020/problems/ICE) | [Setter Solution - Java](./KJSC2020/Ice-Cream-Party/setter.java) | [Tester Solution - C++](./KJSC2020/Ice-Cream-Party/tester.cpp)
+  
+</p>
+</details>
+
 <details><summary>KJSCE Coding Challenge 2019  [ CLICK ] </summary>
 <p>
 
 - [KJSC2019 Contest Link](https://www.codechef.com/KJSC2019)
 
 - Problems
-  - [Weirwood age](https://www.codechef.com/KJSC2019/problems/WAGE) | [Setter Solution - Python](./KJSC2019/WEIRWOOD-AGE/setter.py) | [Tester Soltion - Java](./KJSC2019/WEIRWOOD-AGE/tester.java)
-  - [Ye Re Ye Re Pawase](https://www.codechef.com/KJSC2019/problems/RAIN) | [Setter Solution - Python](./KJSC2019/YE-RE-YE-RE-PAWASE/setter.py) | [Tester Soltion - C++](./KJSC2019/YE-RE-YE-RE-PAWASE/tester.cpp)
-  - [Akshay and Teacher](https://www.codechef.com/KJSC2019/problems/ATCH) | [Setter Solution - C++](./KJSC2019/AKSHAY-AND-TEACHER/setter.cpp) | [Tester Soltion - Python](./KJSC2019/AKSHAY-AND-TEACHER/tester.py)
-  - [Justify](https://www.codechef.com/KJSC2019/problems/JFY) | [Setter Solution - Python](./KJSC2019/JUSTIFY/setter.py) | [Tester Soltion - C++](./KJSC2019/JUSTIFY/tester.cpp)
-  - [Range GCD](https://www.codechef.com/KJSC2019/problems/RGCD) | [Setter Solution - Java](./KJSC2019/RANGE-GCD/setter.java) | [Tester Soltion - Python](./KJSC2019/RANGE-GCD/tester.py)
+  - [Weirwood age](https://www.codechef.com/KJSC2019/problems/WAGE) | [Setter Solution - Python](./KJSC2019/WEIRWOOD-AGE/setter.py) | [Tester Solution - Java](./KJSC2019/WEIRWOOD-AGE/tester.java)
+  - [Ye Re Ye Re Pawase](https://www.codechef.com/KJSC2019/problems/RAIN) | [Setter Solution - Python](./KJSC2019/YE-RE-YE-RE-PAWASE/setter.py) | [Tester Solution - C++](./KJSC2019/YE-RE-YE-RE-PAWASE/tester.cpp)
+  - [Akshay and Teacher](https://www.codechef.com/KJSC2019/problems/ATCH) | [Setter Solution - C++](./KJSC2019/AKSHAY-AND-TEACHER/setter.cpp) | [Tester Solution - Python](./KJSC2019/AKSHAY-AND-TEACHER/tester.py)
+  - [Justify](https://www.codechef.com/KJSC2019/problems/JFY) | [Setter Solution - Python](./KJSC2019/JUSTIFY/setter.py) | [Tester Solution - C++](./KJSC2019/JUSTIFY/tester.cpp)
+  - [Range GCD](https://www.codechef.com/KJSC2019/problems/RGCD) | [Setter Solution - Java](./KJSC2019/RANGE-GCD/setter.java) | [Tester Solution - Python](./KJSC2019/RANGE-GCD/tester.py)
   
 </p>
 </details>
